@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Luis Ignacio Fregeiro Haller
+### Senior Fullstack Developer
 
-You can use the [editor on GitHub](https://github.com/nachofregeiro/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An enthusiast developer with more than 10 years of experience in software development mainly working on modern web applications.
 
-### Markdown
+I am curious developer and enjoy myself researching and trying out new technologies and I am always learning. I enjoy team work and love learning and sharing ideas with my team mates.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am keen on working with agile methodologies such as Scrum and Kanban and I am a certified Scrum Master.
 
-```markdown
-Syntax highlighted code block
+## Location
 
-# Header 1
-## Header 2
-### Header 3
+* Rosario, Santa Fe, Argentina (GMT -3)
 
-- Bulleted
-- List
+## Education
 
-1. Numbered
-2. List
+* Software Engineering – Universidad ORT Uruguay (2005 - 2010)
+* Languages
+  - Spanish: Native
+  - English: Intermediate
 
-**Bold** and _Italic_ and `Code` text
+## Core Skills
 
-[Link](url) and ![Image](src)
-```
+* .Net and .Net Core
+* ASP.NET, ASP.NET MVC, Web API
+* React, React Native, Redux
+* Javascript, Typescript
+* Entity Framework
+* SOAP, REST services
+* Relational databases
+  - Microsoft SQL Sever
+  - Postgres
+  - MySql
+* Non-relational databases
+  - Cosmos DB
+* AngularJS, Angular
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Tools
 
-### Jekyll Themes
+* IDEs: Visual Studio, Visual Studio Code
+* Versioning Systems: TFS, Git
+* Continuous Integration: Azure DevOps, Jenkins
+* Project Management Tools: Jira, Trello, YouTrack, TFS
+* Methodologies: Traditional and Agile (SCRUM and Kanban)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nachofregeiro/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Domain Experience
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Recent Projects
